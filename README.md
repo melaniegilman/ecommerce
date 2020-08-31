@@ -3,10 +3,10 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Walk-through Video
-TBD
+https://drive.google.com/file/d/12ScWm5mKVL53W6EiviCNLVUYyeeMDvCd/view
 
 ## Screenshot
-TBD
+![Screenshot](assets/images/screenshotjson.png)
 
 ## User Story
 AS A manager at an internet retail company
